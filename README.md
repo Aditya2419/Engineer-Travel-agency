@@ -1,6 +1,6 @@
 # Engineer-Travel-agency
 A travel and tourism website to accomodate various types new features and some solutions that can boost the current situation of the tourism industries.
-32.	Student Innovation	Travel & Tourism
+32.	Student Innovation	Travel & Tourism.
 We will be creating a website in which we showing destination guides, podcast series, about tour guides,
 and social media campaign. Also industrial visit for college students, a collage/university visit for private and government school students.
 We will also add all state and union territories' famous places to visit as recommendation. And also country wise recommendation for places to visit.
